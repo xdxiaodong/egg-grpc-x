@@ -25,14 +25,14 @@
 ## Install
 
 ```bash
-$ npm i egg-grpc-ssl --save
+$ npm i egg-grpc-x --save
 ```
 
 ```js
 // {app_root}/config/plugin.js
 exports.grpc = {
   enable: true,
-  package: 'egg-grpc-ssl',
+  package: 'egg-grpc-x',
 };
 ```
 
@@ -228,7 +228,7 @@ see [test/grpc.tests.js](test/grpc.tests.js).
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/xdxiaodong/egg-grpc/issues).
+Please open an issue [here](https://github.com/xdxiaodong/egg-grpc-x/issues).
 
 ## License
 

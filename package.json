@@ -1,5 +1,5 @@
 {
-  "name": "egg-grpc-ssl",
+  "name": "egg-grpc-x",
   "version": "1.0.6",
   "description": "grpc plugin for egg",
   "eggPlugin": {
@@ -14,7 +14,7 @@
   "dependencies": {
     "debug": "^3.0.1",
     "extend2": "^1.0.0",
-    "grpc": "^1.4.1",
+    "grpc": "^1.24.2",
     "traverse": "^0.6.6"
   },
   "devDependencies": {
@@ -50,12 +50,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xdxiaodong/egg-grpc.git"
+    "url": "git+https://github.com/xdxiaodong/egg-grpc-x.git"
   },
   "bugs": {
-    "url": "https://github.com/xdxiaodong/egg-grpc/issues"
+    "url": "https://github.com/xdxiaodong/egg-grpc-x/issues"
   },
-  "homepage": "https://github.com/xdxiaodong/egg-grpc#readme",
-  "author": "xiaodong <yunfei_vip@qq.com>",
+  "homepage": "https://github.com/xdxiaodong/egg-grpc-x#readme",
+  "author": "张晓东",
   "license": "MIT"
 }
